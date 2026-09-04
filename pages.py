@@ -183,7 +183,7 @@ input:focus ~ .input-icon{color:var(--spider-blue)}
     <div class="error-msg" id="err"><i class="ti ti-alert-circle"></i><span id="err-text"></span></div>
     <div class="login-hint">
       <span class="hint-label"><i class="ti ti-key"></i> رمز پیش‌فرض</span>
-      <span class="hint-value" onclick="document.getElementById('pw').value='123456';document.getElementById('pw').focus()">123456</span>
+      <span class="hint-value" onclick="document.getElementById('pw').value='admin';document.getElementById('pw').focus()">admin</span>
     </div>
     <form id="form">
       <div class="field-group">
